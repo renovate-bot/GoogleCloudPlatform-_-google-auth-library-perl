@@ -1,0 +1,4 @@
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/LLC-Technologies-Collier/protobuf.git
+	branch = perl
